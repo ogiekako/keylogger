@@ -12,5 +12,9 @@
   <true/>
   <key>KeepAlive</key>
   <true/>
+  <key>StandardOutPath</key>
+  <string>/tmp/keylogger.out</string>
+  <key>StandardErrorPath</key>
+  <string>/tmp/keylogger.err</string>
 </dict>
 </plist>
